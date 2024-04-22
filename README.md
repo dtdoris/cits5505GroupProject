@@ -7,7 +7,7 @@ Group project for CITS5505 - Agile Web Development
 | UWA ID       |        Name            | Github Username |
 |--------------|:----------------------:|----------------:|
 |   23698749   |     Aji Wuryanto       |   wuryantoAji   |
-|   23786945   |     Chuanrui Yang      |                 |
+|   23786945   |     Chuanrui Yang      |      dtdoris    |
 |   22609525   | Paskah Lin Shou Fa Ong |                 |
 |   23743373   |       Yuxin Gu         |                 |
 
